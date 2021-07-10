@@ -54,6 +54,7 @@ public class DownloadCustomerService extends Service {
         List<Customer> onDownloadOperationStart();
 
     }
+   int k=3;
 
     private final class MyAsyncTask
             extends AsyncTask<String,Integer,String > {
