@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "344792277703",
+    "project_id": "tailorme-404c8",
+    "storage_bucket": "tailorme-404c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344792277703:android:e4ad1b4a485afc645054e2",
+        "android_client_info": {
+          "package_name": "com.hfad.tailorme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344792277703-16arjpnbb5amp49ke75k7afma1r8d93c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUZorFhcwI7QQyRv6-PZ9l00tFcc0Hm3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344792277703-16arjpnbb5amp49ke75k7afma1r8d93c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

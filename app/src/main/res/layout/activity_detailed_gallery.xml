@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="303dp"
+    android:layout_height="480dp"
+    android:layout_gravity="center"
+    android:outlineAmbientShadowColor="@color/black"
+    app:cardBackgroundColor="#FDFDFD"
+    app:cardElevation="20dp"
+    tools:context=".DetailedGallery">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/galleryToCloud"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Upload to cloud"/>
+
+    <ImageView
+        android:id="@+id/largePicture"
+        android:layout_width="303dp"
+        android:layout_height="450dp"
+        android:scaleType="fitXY"
+        tools:srcCompat="@tools:sample/backgrounds/scenic" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tailorme</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_tab">Home</string>
+    <string name="app_drawer_name">Tailor Me</string>
+    <string name="nav_inbox">Message</string>
+    <string name="nav_help">Drafts</string>
+    <string name="nav_drafts">Cloud Storage</string>
+    <string name="nav_sent">Sent</string>
+    <string name="nav_support">Support</string>
+    <string name="nav_feedback">Log Out</string>
+    <string name="nav_settings">Cloud</string>
+    <string name="nav_open_drawer">Open navigation drawer</string>
+    <string name="nav_close_drawer">Close navigation drawer</string>
+    <string name="back_up_customer"> Backup Customer</string>
+    <string name="download_customer">Download (Customer)</string>
+    <string name="back_up_media">Media Backup</string>
+    <string name="download_media">Download (Media)</string>
+</resources>

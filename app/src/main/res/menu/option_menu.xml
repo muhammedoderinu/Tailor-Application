@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/customerBackUp"
+        android:orderInCategory="1"
+        android:title="@string/back_up_customer" />
+
+    <item
+        android:id="@+id/customerDownload"
+        android:icon="@drawable/ic_add_white_24dp"
+        android:orderInCategory="2"
+        android:title="@string/download_customer" />
+
+    <item
+        android:id="@+id/mediaDownload"
+        android:orderInCategory="4"
+        android:title="@string/download_media" />
+
+
+</menu>
